@@ -1,4 +1,7 @@
 # Daily-Update on every morning
 ## 每日晨报
-[2025年6月14日·晨光快报：暴雨袭京、中东战火与加密市场暗涌 | June 14 Morning Brief: Beijing Deluge, Middle East Tensions & Crypto Market Trends](./news/2025_06_14_05_34.md) ["Global Markets Rocked by Iran-Israel Conflict – Crypto Holds Firm as Oil & Gold Soar | June 14, 2025"](./news/2025_06_14_05_25.md)
+[**快报聚焦 | 2025年6月14日 | Report Spotlight: June 14, 2025**  
+**《中东局势引爆油金双暴涨 | BTC站稳10.5万关口》**  
+**"Middle East Crisis Triggers Oil & Gold Surge | BTC Holds $105K"**](./news/2025_06_14_05_42.md) 
+
 
